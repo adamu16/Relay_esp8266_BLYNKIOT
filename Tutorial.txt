@@ -1,0 +1,30 @@
+How to use the program in Arduino Software:
+1. Download all programs on Github (Download .h and .ino)
+2. Make a folder of these programs
+3. Open the file with the extension .ino
+4. Change the program (#define BLYNK_TEMPLATE_ID & #define BLYNK_DEVICE_NAME) according to the template that has been created
+5. Run Program
+
+How to see ID and Device Name
+1. To see the ID and Name, you can go through the web from BLYNK, namely https://blynk.cloud
+2. Enter your email and password according to the application on your handphone
+3. Enter the Template menu and click according to the name of the template that has been created on your handphone
+4. ID and Name will be visible in the info menu
+
+HAPPY TRYING AND GOOD LUCK
+
+
+Cara pemakaian program di Software Arduino:
+1. Download semua program yang ada di Github (Download .h dan .ino)
+2. Jadikan satu folder program-program tersebut
+3. Buka file dengan extension .ino
+4. Ganti program (#define BLYNK_TEMPLATE_ID & #define BLYNK_DEVICE_NAME) sesuai  dengan template yang sudah dibuat
+5. Run Program
+
+Cara melihat ID dan Device Name
+1. Untuk melihat ID dan Name nya bisa melalui web dari BLYNK yaitu https://blynk.cloud
+2. Masukkan email dan password sesuai dengan aplikasi di Handphone
+3. Masuk pada menu Template dan klik sesuai dengan nama template yang sudah di buat di Handphone
+4. ID dan Name akan terlihat pada menu info
+
+SELAMAT MENCOBA DAN SEMOGA BERHASIL
